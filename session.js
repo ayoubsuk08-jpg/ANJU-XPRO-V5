@@ -25,7 +25,7 @@
 //*
 //Base by Janith Rashmika
 //GitHub: @Mrrashmika
-//WhatsApp: +94717775628
+//WhatsApp: +212602850235
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: Mrrashmika
 //   * Credit To Janith Rashmika
@@ -50,7 +50,7 @@ module.exports = {
     process.env.PASSWORD || "your password",
   SUDO: process.env.SUDO
     ? process.env.SUDO.split(",")
-    : ["94717775628", "94758775628"],
+    : ["212602850235", "212602850235"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
 };
